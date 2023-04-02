@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 02-Apr-2023, 8:46:05 pm
+    Author     : 91775
+*/
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  body {
+    background-color: #DDFFBB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+    border: 5px solid #A4BC92;
+  }
+  
+  button {
+	background-color: #539165;
+	color: black;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+        border-radius: 10px;
+    }
+
